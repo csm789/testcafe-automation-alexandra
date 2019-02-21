@@ -1,0 +1,11 @@
+
+	Setting up Environment:
+		> Install node.js (Windows Version)
+		> Install Visual code
+		> Create Project directory
+		> npm install -g testcafe [install -y testcafe, -g= globally]
+		> npm init (it will create packaage Json file)
+		> npm install (Should run this command after writing the code)
+		> "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    	> 
